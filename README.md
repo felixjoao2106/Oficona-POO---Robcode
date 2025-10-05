@@ -2,7 +2,7 @@
 
 **Robocode** é uma plataforma educacional e um jogo de programação onde o objetivo é desenvolver robôs de batalha que lutam entre si em uma arena virtual. O foco principal está em ensinar lógica de programação, inteligência artificial básica e estratégias algorítmicas de forma divertida e prática.
 
-### * Como funciona
+### * Como funciona?
 
 No Robocode, você não controla diretamente o robô. Em vez disso, você escreve o código que define seu comportamento: movimentação, mira, desvio de balas, estratégias de combate, etc. Durante as batalhas, os robôs executam os comandos programados e competem automaticamente uns contra os outros.
 
